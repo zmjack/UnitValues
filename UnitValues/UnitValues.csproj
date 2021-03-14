@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>zmjack</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Common unit conversion and calculation.</Description>
+    <PackageProjectUrl>https://github.com/zmjack/UnitValues</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/zmjack/UnitValues</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>UnitValue</PackageTags>
+    <Copyright>Copyright © nstandard.net 2021</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Company>nstandard.net</Company>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
